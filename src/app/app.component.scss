@@ -8,7 +8,7 @@
     max-width: 30em;
     margin: 4em auto;
     position: relative;
-    background: $background;
+    background: beige;
     padding: 2em 3em;
    }
    form h1{
@@ -36,7 +36,7 @@
        cursor: pointer;
    }
    form .input-group-text{
-       background: $button-color;
+       background: $background;
        border-radius: 50%;
        @include sizing(5em, 5em);
        padding: 1em 23px;
